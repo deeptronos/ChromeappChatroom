@@ -1,0 +1,10 @@
+h1, h3 {
+  margin-top: 0
+}
+
+body {
+  font-family: "Open Sans", Helvetica, Arial;
+  font-size: 10pt;
+  background-color: black;
+  color: white;
+}
