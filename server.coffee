@@ -21,4 +21,4 @@ server = express().use(client).use((request, response) ->
 ).listen settings.port
 
 # Say hello
-console.log "SERVER:".cyan, "Running on port", "#{settings.port}".yellow
+console.log "CHAT:".cyan, "Running on port", "#{settings.port}".yellow
